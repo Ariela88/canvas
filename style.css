@@ -1,0 +1,15 @@
+body{
+    margin:0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+background-color: #313131;
+}
+
+.my-canvas{
+    background-color: white;
+    /* height: 780px;
+    width: 900px; */
+    
+}
