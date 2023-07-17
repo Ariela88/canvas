@@ -44,7 +44,7 @@ animate(canvasWidth,canvasHeight){
         this.velocityY = this.velocityY * -1;
         
     }
-
+  
     
     
 }
@@ -75,7 +75,7 @@ animate(canvasWidth,canvasHeight){
 
 
 
-        const newRect = new Rect(0, 0, 10, 10, rgbString);
+        const newRect = new Rect(500, 500, 10, 10, rgbString);
 
 
         return newRect;
